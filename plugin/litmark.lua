@@ -1,4 +1,4 @@
-local litmark = require('litmark.nvim')
+local litmark = require('litmark')
 local vim = vim -- Supress "Undefined global" errors
 
 local function scratch(lines)
